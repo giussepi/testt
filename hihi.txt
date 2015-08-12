@@ -2,3 +2,4 @@ probndo
 el revert
 linea q no se debe revertir
 @ quitme 1
+@ quitame 21
