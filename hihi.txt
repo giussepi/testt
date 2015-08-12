@@ -1,5 +1,3 @@
 probndo
 el revert
-# linea a revertir
 linea q no se debe revertir
-
