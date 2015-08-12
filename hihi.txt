@@ -7,4 +7,6 @@ linea q no se debe revertir
 #cosas cosas y mas cosas
 @ revert 1
 @ revert 2
-@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@2
+R3
+xuxuca
