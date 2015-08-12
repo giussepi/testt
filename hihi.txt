@@ -5,4 +5,5 @@ linea q no se debe revertir
 @ quitame 21
 @quiatem 3
 #cosas cosas y mas cosas
-
+@ revert 1
+@ revert 2
